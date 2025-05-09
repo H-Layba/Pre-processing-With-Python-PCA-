@@ -136,7 +136,8 @@ Compare Accuracies: Displays a bar plot comparing model accuracy.
 
 Export Preprocessed Data: Save transformed datasets for further use.
 
-gui.png
+![Alt Text](gui.png)
+
 ---
 
 ## 💡 Conclusion
