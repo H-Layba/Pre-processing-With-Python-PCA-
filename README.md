@@ -99,8 +99,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 project/
 ├── HR-Employee-Attrition_with_missing_values.csv
-├── pipeline_without_pca.py
-├── pipeline_with_pca.py
+├── pipeline_without_pca.ipynb
+├── pipeline_with_pca.ipynb
+├── Graphic interface code.ipynb
 ├── README.md
 ```
 
@@ -121,7 +122,21 @@ All capped to bounds.
 
 Accuracy: 0.85
 ```
+GUI Application
+An interactive Tkinter-based desktop GUI allows users to preprocess data and compare models easily.
 
+Features:
+Load CSV: Upload the dataset.
+
+Preprocess Without PCA: Applies full preprocessing pipeline and trains a model.
+
+Preprocess With PCA: Adds PCA (2 components) before model training.
+
+Compare Accuracies: Displays a bar plot comparing model accuracy.
+
+Export Preprocessed Data: Save transformed datasets for further use.
+
+Sample
 ---
 
 ## 💡 Conclusion
