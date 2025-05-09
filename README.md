@@ -122,7 +122,7 @@ All capped to bounds.
 
 Accuracy: 0.85
 ```
-GUI Application
+## GUI Application
 An interactive Tkinter-based desktop GUI allows users to preprocess data and compare models easily.
 
 Features:
@@ -136,7 +136,7 @@ Compare Accuracies: Displays a bar plot comparing model accuracy.
 
 Export Preprocessed Data: Save transformed datasets for further use.
 
-Sample
+gui.png
 ---
 
 ## 💡 Conclusion
